@@ -1,16 +1,11 @@
-import setText , {appendText} from './results.mjs';
+import setText, { appendText } from "./results.mjs"
 
-export function get(){
-}
+export function get() {}
 
-export function getCatch(){
-}
+export function getCatch() {}
 
-export function chain(){
-}
+export function chain() {}
 
-export function concurrent(){
-}
+export function concurrent() {}
 
-export function parallel(){
-}
+export function parallel() {}

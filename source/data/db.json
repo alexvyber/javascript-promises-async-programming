@@ -29,42 +29,52 @@
       "zipCode": "57103"
     }
   ],
-  "itemCategories": [{
-    "id": 1,
-    "description": "kayak"
-  }, {
-    "id": 2,
-    "description": "hiking"
-  }, {
-    "id": 3,
-    "description": "boots"
-  }],
-  "items": [{
-    "id": 1,
-    "description": "Yellow Kayak",
-    "itemCategoryId": 1,
-    "cost": 399.00
-  },{
-    "id": 2,
-    "description": "Two-person Kayak",
-    "itemCategoryId": 1,
-    "cost": 646.00
-  },{
-    "id": 3,
-    "description": "Backpack",
-    "itemCategoryId": 2,
-    "cost": 39.00
-  },{
-    "id": 4,
-    "description": "Helmet",
-    "itemCategoryId": 2,
-    "cost": 279.00
-  },{
-    "id": 5,
-    "description": "Hiking Boots",
-    "itemCategoryId": 3,
-    "cost": 85.00
-  }],
+  "itemCategories": [
+    {
+      "id": 1,
+      "description": "kayak"
+    },
+    {
+      "id": 2,
+      "description": "hiking"
+    },
+    {
+      "id": 3,
+      "description": "boots"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "description": "Yellow Kayak",
+      "itemCategoryId": 1,
+      "cost": 399.0
+    },
+    {
+      "id": 2,
+      "description": "Two-person Kayak",
+      "itemCategoryId": 1,
+      "cost": 646.0
+    },
+    {
+      "id": 3,
+      "description": "Backpack",
+      "itemCategoryId": 2,
+      "cost": 39.0
+    },
+    {
+      "id": 4,
+      "description": "Helmet",
+      "itemCategoryId": 2,
+      "cost": 279.0
+    },
+    {
+      "id": 5,
+      "description": "Hiking Boots",
+      "itemCategoryId": 3,
+      "cost": 85.0
+    }
+  ],
   "orderStatuses": [
     {
       "id": 1,
@@ -123,15 +133,18 @@
       "userTypeId": 3
     }
   ],
-  "userTypes": [{
-    "id": 1,
-    "description": "individual"
-  },
-  {
-    "id": 2,
-    "description": "business"
-  },{
-    "id": 3,
-    "description": "premium club"
-  }]
+  "userTypes": [
+    {
+      "id": 1,
+      "description": "individual"
+    },
+    {
+      "id": 2,
+      "description": "business"
+    },
+    {
+      "id": 3,
+      "description": "premium club"
+    }
+  ]
 }

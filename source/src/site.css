@@ -1,72 +1,71 @@
 body {
-    background-color: #404040;
-    font-family: GothamSSm, Helvetica, Arial, sans-serif;
-    color: white;
+  background-color: #404040;
+  font-family: GothamSSm, Helvetica, Arial, sans-serif;
+  color: white;
 }
 
 a {
-    text-decoration: none;
-    color: #F05A28
+  text-decoration: none;
+  color: #f05a28;
 }
 
 h1 {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
-
 button {
-    border: none;
-    color: white;
-    padding: 2rem;
-    background: transparent;
-    font-size: 1rem;
-    cursor: pointer;
+  border: none;
+  color: white;
+  padding: 2rem;
+  background: transparent;
+  font-size: 1rem;
+  cursor: pointer;
 }
 
 div.results {
-    border: 1px solid gray;
+  border: 1px solid gray;
 }
 
 .bg-orange {
-    background: #F05A28
+  background: #f05a28;
 }
 
 .bg-blue {
-    background: #2A9FBC
+  background: #2a9fbc;
 }
 
 .bg-green {
-    background: #9BC850
+  background: #9bc850;
 }
 
 .bg-purple {
-    background: #675BA7
+  background: #675ba7;
 }
 
 .orange {
-    color: #F05A28
+  color: #f05a28;
 }
 
 .blue {
-    color: #2A9FBC
+  color: #2a9fbc;
 }
 
 .green {
-    color: #9BC850
+  color: #9bc850;
 }
 
 .purple {
-    color: #675BA7
+  color: #675ba7;
 }
 
 .hidden {
-    display: none;
+  display: none;
 }
 
 .waiting {
-    background: #9BC850;
-    position: absolute;
-    top: 20%;
-    height: 75%;
-    width: 95%;
+  background: #9bc850;
+  position: absolute;
+  top: 20%;
+  height: 75%;
+  width: 95%;
 }
